@@ -1,0 +1,38 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+
+</heaD>
+<body bgcolor="00000" vlink="darkred" alink="darkred" link="darkred">
+
+
+
+<div align="center">
+<A href="satan.html" target="blank">
+<img src="flacaraneagra.jpg" height="700" width="1000" border=0>
+</a>
+
+
+
+
+
+<h3><font color="white">Satanismul Tradi&#355;ional - practicat, internalizat &#351;i expus de practican&#355;i rom&#226;ni.(WIP)</font></h3>
+
+
+
+
+
+</div>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+</html>
