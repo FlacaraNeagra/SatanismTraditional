@@ -1,0 +1,17 @@
+body{
+background-image:url("luna.jpg");
+background-position: right top;
+background-repeat:no-repeat;background-attachment:fixed;
+}
+
+
+ body {
+  background-color: black;
+}
+h1 {
+  color: darkred;
+}
+p {
+  color: white;
+}
+
